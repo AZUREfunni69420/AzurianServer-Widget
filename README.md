@@ -1,0 +1,2 @@
+# AzurianServer-Widget
+yes
